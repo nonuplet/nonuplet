@@ -5,7 +5,7 @@
 ### 🆂🅺🅸🅻🅻🆂
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,css,tailwind,vue,vite,unity,cs,java,linux,idea,ps,ai,ae,blender" />
+    <img src="https://skillicons.dev/icons?i=ts,css,tailwind,vue,vite,nodejs,unity,cs,java,linux,idea,ps,ai,ae,blender" />
 </p>
 
 ---
